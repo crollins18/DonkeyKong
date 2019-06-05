@@ -1,4 +1,4 @@
-# DonkWorldProject
+# DonkeyKong
 ## AP CSA Final Year End Project
 <br>
 Written by Caleb Rollins and Elijah Ingram with the use of the GridWorld source code provided by the College Board.
